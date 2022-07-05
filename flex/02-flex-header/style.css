@@ -9,6 +9,18 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  display: flex;
+  justify-content: center;
+}
+
+.left-links {
+  display: flex;
+  justify-content: left;
+}
+
+.right-links {
+  display: flex;
+  justify-content: right;
 }
 
 ul {
