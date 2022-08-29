@@ -52,7 +52,7 @@ ul {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 0px;
+  padding: 8px;
 }
 
 ul {
